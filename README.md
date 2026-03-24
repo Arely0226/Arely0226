@@ -1,4 +1,4 @@
-# ¡Hola! Soy Arely Tun ✋
+# ¡Hola! Soy Arely Tun ✋ 
 
 ## 👦 Sobre mí
 Soy estudiante de 2.º semestre de la carrera de técnico en **Programación**, Actualmente, estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.
