@@ -1,11 +1,11 @@
 # ¡Hola! Soy Arely Tun ✋
 
 ## 👦 Sobre mí
-Soy estudiante de 2.º semestre de la carrera de técnico en Programación. Actualmente, estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.
+Soy estudiante de 2.º semestre de la carrera de técnico en **Programación**, Actualmente, estoy sumergiéndome en el mundo del desarrollo de software, enfocándome en construir bases sólidas en lógica y buenas prácticas.
 
-🏫 Colegio de Estudios Científicos y Tecnológicos del Estado de Campeche, plantel Pomuch
-📚 Actualmente aprendiendo: **Python** y **gestión de versiones con Git y GitHub**
-🥇 Mi meta actual: dominar la lógica de programación para resolver problemas de manera eficiente.
+-🏫 Colegio de Estudios Científicos y Tecnológicos del Estado de Campeche, plantel Pomuch
+-📚 Actualmente aprendiendo: **Python** y **gestión de versiones con Git y GitHub**
+-🥇 Mi meta actual: dominar la lógica de programación para resolver problemas de manera eficiente.
 
 ---
 ## 🛠️ Tecnologías y Herramientas
